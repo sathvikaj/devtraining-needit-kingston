@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-25 10:07:19</sys_created_on>
+        <sys_id>8912fba6db51a300b04dd190cf96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_8912fba6db51a300b04dd190cf96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-25 10:07:19</sys_updated_on>
+        <title><![CDATA[<p><img style="border: 6px solid black; vspace: 8px; hspace: 5px; align: baseline;" title="" src="10Things02a_v2.pngx" alt="dgvbrf" width="180" height="252" align="baseline" border="6" hspace="5" vspace="8" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=8912fba6db51a300b04dd190cf96197a"/>
+</record_update>
